@@ -1,0 +1,10 @@
+site_name: YouC Driver Docs
+nav:
+    - Home: index.md  
+    - User Guide: 
+      - Drivers guide: drivers.md
+      - Admin guide: admin.md
+    - Developer Guide:
+      - Overview: overview.md
+      - Coding patterns: patterns.md
+      - Frontend Document: coding.md
